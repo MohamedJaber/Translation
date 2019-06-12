@@ -1,0 +1,57 @@
+body{
+	background:url("mo.jpg");
+	background-size:no-repeat;
+}
+#c{
+	float:left;
+	width:40%;
+	height:30%;
+}
+#ca{
+	float:left;
+	margin-top:100px;
+	padding:20px 20px;
+border:0;
+background:-webkit-linear-gradient(left, black,white);
+display:block;
+font-family:algerian;
+color:white;
+border-radius:20px;
+}
+#ca:hover{
+	color:black;
+}
+#a{
+	width:100%;
+	height:100%;
+}
+#ad{
+clear:left;
+margin-top:200px;
+margin-left:480px;
+
+
+}
+#o{
+	margin-left:100px;
+	margin-top:100px;
+}
+#u{
+	padding:30px 30px;
+border:0;
+background:-webkit-linear-gradient(left, white,black);
+display:block;
+font-family:algerian;
+color:white;
+border-radius:20px;
+}
+#u:hover{
+	color:black;
+}
+#w,#d{
+	border:0;
+	margin-left:100px;
+	background:-webkit-linear-gradient(left, white,black);
+	color:white;
+	text-align:center;
+}
